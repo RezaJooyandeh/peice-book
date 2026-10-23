@@ -1,0 +1,18 @@
+{
+  "name": "Piecebook – Puzzle Collection",
+  "short_name": "Piecebook",
+  "description": "Your private, local-first jigsaw puzzle journal.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#1f5b4f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
