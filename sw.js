@@ -1,4 +1,4 @@
-const CACHE = "piecebook-v2";
+const CACHE = "piecebook-v3";
 const SCOPE = self.registration.scope;
 const scopeUrl = (path) => new URL(path, SCOPE).href;
 const APP_SHELL = ["./", "index.html", "assets/app.js", "assets/app.css", "manifest.webmanifest", "icon.svg"].map(scopeUrl);
